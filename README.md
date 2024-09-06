@@ -12,3 +12,6 @@ Update Note: Edit existing notes to modify their content.
 Delete Note: Remove notes that are no longer needed.
 
 Search Note: Quickly find notes by searching for keywords in the title or description.
+
+https://github.com/user-attachments/assets/30849785-fe77-428d-9b07-ca42acc623ad
+
