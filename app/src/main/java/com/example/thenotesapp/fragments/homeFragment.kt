@@ -46,7 +46,6 @@ class homeFragment : Fragment(R.layout.fragment_home), SearchView.OnQueryTextLis
         }
 
     }
-
     private fun updateUI(note: List<Note>?) {
         if (note != null) {
             if (note.isNotEmpty()) {
